@@ -15,7 +15,7 @@ def generate_buzz():
     
     page += '</body></html>'
 
-=======
+
     page += '</h1><p> Test Firouz</p></body></html>'
 
     return page
