@@ -1,7 +1,5 @@
 languages:
 - python
-
-
 - name: python
   production:
     exclude:
@@ -9,7 +7,6 @@ languages:
   test:
     include:
       - /tests/.*
-
 exclude:
 - /docs/.*
 - .*/setup\.py
