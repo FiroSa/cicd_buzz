@@ -24,7 +24,11 @@ def generate_buzz():
 
     page += generator.generate_buzz()
 
-    page += '</h1></body></html>'
+    page += '</h1>'
+    
+    #page += '&copy; firouz'
+
+    page += '</body></html>'
 
     return page
 
