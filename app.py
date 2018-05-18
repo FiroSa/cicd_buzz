@@ -26,7 +26,7 @@ def generate_buzz():
 
     page += '</h1>'
     
-    #page += '&copy; firouz'
+    page += 'firouz'
 
     page += '</body></html>'
 
