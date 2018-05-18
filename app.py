@@ -16,7 +16,7 @@ def generate_buzz():
     page += '</body></html>'
 
 
-    page += '</h1><p> Test Firouz</p></body></html>'
+    page += '</h1></body></html>'
 
     return page
 if __name__ == "__main__":
