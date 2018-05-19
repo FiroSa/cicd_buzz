@@ -2,7 +2,7 @@
 # Officially unsupported, but works.
 build:
   languages:
-    - python
+    - go
 
 run:
 web: go-getting-started
