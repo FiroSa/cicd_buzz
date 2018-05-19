@@ -27,7 +27,7 @@ def generate_buzz():
 
     page += '</h1>'
 
-    page += ''
+    page += '<p style="font-size:50px;">Assignment 3 - Firouz</p>'
 
     page += '</body></html>'
 
