@@ -21,11 +21,11 @@ signal.signal(signal.SIGINT, lambda s, f: os._exit(0))
 
 def generate_buzz():
 
-    page = '<html><body><p> TEST </p><h1>'
+    page = '<html><body><h1>'
 
     page += generator.generate_buzz()
 
-    page += '</h1>  </body></html>'
+    page += '</h1> <p>Test Firouz</p></body></html>'
 
     return page
 
