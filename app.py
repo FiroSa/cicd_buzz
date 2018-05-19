@@ -27,8 +27,8 @@ def generate_buzz():
 
     page += '</h1>'
 
-    page += '&copy; Firouz 2018'
-    
+    page += ''
+
     page += '</body></html>'
 
     return page
